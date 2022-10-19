@@ -6,10 +6,7 @@
 - 作品_アピール.pdf for the promotion of the game (in Japanese)
 
 ### State :
-Developed entirely by Corentin Dumont.
-(using royalty free musics and 3D models/textures)
-
-Still under development.
+Developped as a personal project when I was a student. Not working on it anymore.
 
 Game developed with Unity version 5.3.1f1.
 
@@ -43,6 +40,6 @@ The challenge is to play two different games at the same time to survive and get
 ###To do list:
 
 - Add/Finish to create more ennemies
-- Add/ Finish to create more stages
+- Add/Finish to create more stages
 - Improve the AI (make it able to learn to avoid enemies' laser)
 - Improve the functioning of the "Reset Save" of the title.
